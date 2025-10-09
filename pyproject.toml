@@ -15,4 +15,7 @@ dependencies = [
     "faiss-cpu>=1.12.0",
     "chromadb>=1.1.1",
     "onnxruntime<1.19.0",
+    "langchain-groq>=0.3.8",
+    "python-dotenv>=1.1.1",
+    "typesense>=1.1.1",
 ]

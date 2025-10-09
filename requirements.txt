@@ -7,3 +7,6 @@ sentence-transformers
 faiss-cpu
 chromadb
 onnxruntime
+langchain-groq
+python-dotenv
+typesense
